@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(123, 145, 87);
+
+}
+hr{
+    border-style: dotted none dashed none;
+    border-color: rgb(145, 6, 6);
+    border-width: 5px;
+    width: 30%;
+}
+h1
+{text-decoration: underline;
+
+    color: rgb(231, 78, 17);
+}
+h2{
+    color: rgb(255, 230, 0)
+}
